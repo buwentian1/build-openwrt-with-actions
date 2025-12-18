@@ -19,3 +19,4 @@ sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/M
 git clone https://github.com/chenmozhijin/turboacc.git package/turboacc
 git clone https://github.com/stevenjoezhang/luci-app-adguardhome.git package/ADGH
 git clone https://github.com/buwentian1/istore.git package/istore
+git clone https://github.com/selfcan/luci-app-homebox.git package/homebox
