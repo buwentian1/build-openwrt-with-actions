@@ -20,3 +20,5 @@ git clone https://github.com/chenmozhijin/turboacc.git package/turboacc
 git clone https://github.com/stevenjoezhang/luci-app-adguardhome.git package/ADGH
 git clone https://github.com/buwentian1/istore.git package/istore
 git clone https://github.com/sirpdboy/luci-app-netspeedtest.git package/netspeedtest
+https://github.com/immortalwrt/Rclone-OpenWrt
+git clone https://github.com/immortalwrt/Rclone-OpenWrt.git package/Rclone
