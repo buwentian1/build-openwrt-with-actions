@@ -20,4 +20,4 @@ git clone https://github.com/stevenjoezhang/luci-app-adguardhome.git package/ADG
 git clone https://github.com/buwentian1/istore.git package/istore
 git clone https://github.com/sirpdboy/luci-app-netspeedtest.git package/netspeedtest
 git clone https://github.com/immortalwrt/Rclone-OpenWrt.git package/Rclone
-git https://github.com/torguardvpn/luci-app-easymesh.git package/easymesh
+git clone https://github.com/torguardvpn/luci-app-easymesh.git package/easymesh
