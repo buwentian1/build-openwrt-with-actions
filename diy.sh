@@ -14,7 +14,7 @@ sed -i 's/ImmortalWrt/buwentian/g' package/base-files/files/bin/config_generate
 #echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 #git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 #git clone https://github.com/kenzok8/small.git package/small
-#git clone https://github.com/SunBK201/UA3F.git package/UA3F
+git clone https://github.com/SunBK201/UA3F.git package/UA3F
 git clone https://github.com/chenmozhijin/turboacc.git package/turboacc
 git clone https://github.com/stevenjoezhang/luci-app-adguardhome.git package/ADGH
 git clone https://github.com/buwentian1/istore.git package/istore
