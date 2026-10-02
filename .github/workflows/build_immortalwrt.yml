@@ -120,7 +120,6 @@ jobs:
           path: |
             openWRT/.config
             openWRT/feeds.conf.default
-          include-hidden-files: true
 
       - name: 多线程编译 openWRT (Build openWRT multithreading)
         if: ${{inputs.multithreading == true}}
