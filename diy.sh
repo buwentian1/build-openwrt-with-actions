@@ -18,6 +18,7 @@ git clone https://github.com/SunBK201/UA3F.git package/UA3F
 git clone https://github.com/chenmozhijin/turboacc.git package/turboacc
 git clone https://github.com/stevenjoezhang/luci-app-adguardhome.git package/ADGH
 git clone https://github.com/buwentian1/istore.git package/istore
-git clone https://github.com/sirpdboy/luci-app-netspeedtest.git package/netspeedtest
-git clone https://github.com/immortalwrt/Rclone-OpenWrt.git package/Rclone
+git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest
+#git clone https://github.com/immortalwrt/Rclone-OpenWrt.git package/Rclone
 git clone https://github.com/ntlf9t/luci-app-easymesh.git package/easymesh
+git clone https://github.com/selfcan/luci-app-homebox.git package/homebox
