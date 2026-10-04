@@ -119,6 +119,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: config-before-build
+          include-hidden-files: true      # ← 关键：v4 默认排除隐藏文件
+          if-no-files-found: error        # ← 建议：缺文件直接报错，避免再次静默漏传
           path: |
             openWRT/.config
             openWRT/feeds.conf.default
